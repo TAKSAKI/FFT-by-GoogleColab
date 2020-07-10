@@ -1,2 +1,3 @@
 # FFT-by-GoogleColab
 フーリエ変換をGoogleColabで行う
+もしimreadの第二引数を０つまりgrayscaleにしないとplotしたときに背景が白になってしまい可視化しにくい
